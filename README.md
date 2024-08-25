@@ -10,8 +10,8 @@ Java Backend Developer
 * 🖥️ See my portfolio at [Мое портфолио: изучаю язык по урокам Наиля Алишева](http://https://github.com/albertnig)
 * ✉️ You can contact me at [albertnig16@gmail.com](mailto:albertnig16@gmail.com)
 * 🚀 I'm currently working on [Гуру](http://guru.ru)
-* 🧠  I'm learning Kafka
-* 🤝  I'm open to collaborating on всё, что касается Java
+* 🧠  I'm learning Java
+* 🤝  I'm open to collaborating Java
 * ⚡  Рад пообщаться с единомышленниками
 
 ### Skills
