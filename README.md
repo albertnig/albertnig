@@ -6,13 +6,13 @@ Java Backend Developer
 
 Я изучаю Java 2 года,нахожу это занятие увлекательным
 
-* 🌍 I'm based in Казань
-* 🖥️ See my portfolio at [прошёл курсы Наиля Алишева](http://https://github.com/albertnig)
+* 🌍 I'm based in Kazan
+* 🖥️ See my portfolio at (http://https://github.com/albertnig)
 * ✉️ You can contact me at [albertnig16@gmail.com](mailto:albertnig16@gmail.com)
-* 🚀 I'm currently working on [Гуру](http://guru.ru)
+* 🚀 I'm currently working on [SimbirSoft](https://www.simbirsoft.com/)
 * 🧠  I'm learning Java
 * 🤝  I'm open to collaborating Java
-* ⚡  Рад пообщаться с единомышленниками
+* ⚡  I'm glad to communicate with like-minded people
 
 ### Skills
 
